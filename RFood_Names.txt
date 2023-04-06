@@ -1,0 +1,10 @@
+Food Types|Names
+Spicy|Mutton Biryani
+     |Panipuri
+Icecream|Vanilla
+        |Buttersoctch
+        |Chocolate
+      
+Drinks|Orange juice
+      |Thumasup
+      |Badhammilk
